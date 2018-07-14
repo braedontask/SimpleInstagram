@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/miProfile"
+        android:icon="@drawable/ic_launcher"
+        app:showAsAction="ifRoom"
+        android:title="Compose">
+    </item>
+    <!--<item-->
+        <!--android:id="@+id/miDecompose"-->
+        <!--android:icon="@drawable/instagram_user_outline_24"-->
+        <!--app:showAsAction="ifRoom"-->
+        <!--android:title="Compose">-->
+    <!--</item>-->
+    <!--<item-->
+    <!--android:id="@+id/miProfile"-->
+    <!--android:icon="@drawable/ic_launcher"-->
+    <!--app:showAsAction="ifRoom|withText"-->
+    <!--android:title="Profile">-->
+    <!--</item>-->
+</menu>
